@@ -3,6 +3,7 @@ kilos_gas = 0
 menu_de_pedido = True
 eleccion_pedido = True
 valor_total = 0
+kilos_gas_adicionales = 0
 
 
 while realizar_pedido:
